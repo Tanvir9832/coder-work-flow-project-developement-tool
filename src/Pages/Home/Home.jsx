@@ -2,7 +2,7 @@
 const Home = () => {
     return (
         <div className="mt-4 text-2xl">
-            that was home page....
+            home page....
         </div>
     );
 };
